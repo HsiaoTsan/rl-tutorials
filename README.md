@@ -5,6 +5,21 @@ Reinforcement Learning Tutorials during my TAship for course ECE1508 at the Univ
 
 This repository contains a collection of tutorials designed to introduce and deepen understanding of various reinforcement learning (RL) techniques. Each tutorial focuses on a different method or approach commonly used in RL, with practical examples and explanations.
 
+## Getting Started
+
+The best way to start is to open this GitHub repository in [Google Colab](https://colab.google.com):
+
+1. Go to [Google Colab](https://colab.google.com).
+2. Click on **File** -> **Open notebook**.
+3. Select the **GitHub** tab.
+4. Paste this repository's link: `https://github.com/HsiaoTsan/rl-tutorials`.
+5. Choose the notebook you want to open and start experimenting!
+
+Each tutorial is contained within its own folder and includes all necessary code and explanations to get started. 
+
+---
+
+
 ## Tutorials
 
 ### Tutorial 1 - Tabular RL for Continuous State Problems with State Discretization
@@ -36,18 +51,3 @@ We explore Proximal Policy Optimization (PPO), an improvement on TRPO that simpl
 
 - **Topics Covered**: Clipped surrogate objective, PPO algorithm, policy constraints.
 - **Objective**: Implement PPO and learn how it balances policy update stability with sample efficiency.
-
----
-
-## Getting Started
-
-The best way to start is to open this GitHub repository in [Google Colab](https://colab.google.com):
-
-1. Go to [Google Colab](https://colab.google.com).
-2. Click on **File** -> **Open notebook**.
-3. Select the **GitHub** tab.
-4. Paste this repository's link: `https://github.com/HsiaoTsan/rl-tutorials`.
-5. Choose the notebook you want to open and start experimenting!
-
-Each tutorial is contained within its own folder and includes all necessary code and explanations to get started. 
-
